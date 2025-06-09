@@ -1,10 +1,6 @@
 # Hosting-Website-using-Amazon-S3-and-accelerate-content-delivery-using-Cloudfont-in-AWS
 
-# 🌐 Static Website Hosting with Amazon S3 & CloudFront
-
 > Scalable, secure, and globally optimized static website deployment using Amazon Web Services (AWS).
-
----
 
 ## 📌 Project Overview
 
